@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🚀 Tutorial Laravel 12 API + Next.js 15 + Tailwind CSS
 
-## Getting Started
+Assalamu’alaikum warahmatullahi wabarakatuh, Halo teman-teman semua 👋
 
-First, run the development server:
+Pada repository ini, kita akan belajar bersama membangun aplikasi web modern dengan **Laravel 12** sebagai backend API, dan **Next.js 15** sebagai frontend.  
+Untuk urusan tampilan, kita akan memanfaatkan **Tailwind CSS** agar desain lebih rapi, responsif, dan hemat waktu tanpa harus menulis CSS mentah yang panjang.  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🧩 Teknologi yang Digunakan
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Sebelum mulai, mari kita pahami dulu stack teknologi yang akan kita gunakan:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Laravel 12** → Framework PHP yang powerful untuk membangun backend RESTful API.  
+- **Next.js 15** → Framework React generasi terbaru dengan dukungan *Server Actions*, *App Router*, dan rendering modern.  
+- **Tailwind CSS** → *Utility-first CSS framework* yang fleksibel untuk membuat UI elegan tanpa ribet.  
+- **Vite / Turbopack (Next.js)** → *Build tool* modern untuk proses *hot-reload* dan *build* super cepat.  
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 📦 Persiapan Awal
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Sebelum melakukan *clone* repository ini, pastikan Anda sudah menginstal beberapa hal penting berikut:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- PHP **^8.2**  
+- Composer  
+- Node.js & NPM  
+- Git  
+- Database (MySQL atau SQLite)  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📚 Dokumentasi Lengkap
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Untuk materi lengkapnya, silakan kunjungi:  
+
+👉 [Tutorial Laravel 12 API + Next.js 15 + Tailwind CSS](https://lagikoding.com/series/tutorial-laravel-12-api-next-js-15-dan-tailwind-css)  
+
+---
+
+## 🤝 Kontribusi
+
+Jika menemukan bug atau ingin menambahkan fitur, silakan buat **issue** atau ajukan **pull request**.  
+Mari belajar dan berkembang bersama 🚀  
+
+---
+
+## 📄 Lisensi
+
+Proyek ini dirilis di bawah [MIT License](LICENSE).  
